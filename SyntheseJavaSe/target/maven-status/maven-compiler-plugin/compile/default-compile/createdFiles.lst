@@ -1,0 +1,12 @@
+Models\ModelsClient.class
+Views\UserRegistration.class
+Views\UserRegistration$2.class
+Dao\ConnexionBase.class
+Views\UserAcceuil$1.class
+Views\UserRegistration$1.class
+Controlers\Test.class
+Models\ModelsArticle.class
+Views\UserLogin.class
+Views\UserAcceuil.class
+Views\UserRegistration$3.class
+Models\ModelsUtilisateur.class
